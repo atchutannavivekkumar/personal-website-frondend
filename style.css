@@ -13,27 +13,25 @@ body{
     width: 100%;
 }
 
-.top-cloud{
-   
+.top-cloud {
     text-align: center;
     font-family: "Merriweather", serif;
     position: absolute;
-    right: 200px;
-    top: 40px;
+    right: 27%;
+    top: 10%;
 }
 .mountain {
     text-align: center;
     font-family: "Merriweather", serif;
     position: absolute;
-    left: 35%;
-    left: ;
+    left: 37%;
+    top: 300px;
 }
-
 }
 .bottom-cloud {
     position: absolute;
     top: 400px;
-    left: 80%;
+    left: 20%;
 }
 .body{
     color: #40514e;
