@@ -25,13 +25,13 @@ body{
     font-family: "Merriweather", serif;
     position: absolute;
     left: 37%;
-    top: 300px;
+    top: 320px;
 }
 }
 .bottom-cloud {
     position: absolute;
     top: 400px;
-    left: 20%;
+    left: 10%;
 }
 .body{
     color: #40514e;
