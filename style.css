@@ -31,7 +31,7 @@ body{
 .bottom-cloud {
     position: absolute;
     top: 400px;
-    right: 70%;
+    left: 35%;
 }
 .body{
     color: #40514e;
