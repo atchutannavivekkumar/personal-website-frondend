@@ -27,11 +27,11 @@ body{
     left: 37%;
     top: 320px;
 }
-}
+
 .bottom-cloud {
     position: absolute;
     top: 400px;
-    right: 80%;
+    right: 60%;
 }
 .body{
     color: #40514e;
