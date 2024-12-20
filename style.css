@@ -21,21 +21,19 @@ body{
     right: 200px;
     top: 40px;
 }
-.mountain{
-   
+.mountain {
     text-align: center;
     font-family: "Merriweather", serif;
     position: absolute;
-    left: 513px;
-    top: 330px;
-    
+    left: 35%;
+    left: ;
 }
 
-.bottom-cloud{
-    
+}
+.bottom-cloud {
     position: absolute;
     top: 400px;
-    left: 300px;
+    left: 80%;
 }
 .body{
     color: #40514e;
@@ -87,17 +85,16 @@ h3{
     margin:  auto 0 auto;
     font-family: "serif";
 }
-.pro{
+.pro {
     width: 200px;
     height: 200px;
     position: absolute;
     padding-top: 15px;
     padding-bottom: 15px;
-    top: 900px;
-    left: 690px;
-    
+    top: 950px;
+    left: 47%;
 }
-.descrip{
+.descrip {
     color: black;
     text-align: center;
     font-family: "Merriweather", serif;
@@ -105,8 +102,9 @@ h3{
     width: 30%;
     position: absolute;
     padding-top: 20px;
-    top: 1100px;
-    left: 590px;
+    top: 1170px;
+    left: 38%;
+    font-size: larger;
 }
 .bottom-container{
     background-color: #E2F6CA;
@@ -146,7 +144,7 @@ h3{
     height: 300px;
 }
 
-.btn{
+.btn {
     text-align: center;
     margin: 20px 20px;
     background: #11cdd4;
@@ -160,10 +158,9 @@ h3{
     position: absolute;
     padding-top: 15px;
     padding-bottom: 15px;
-    top: 2200px;
-    left: 590px;
+    top: 2250px;
+    left: 45%;
     text-align: center;
-    
 }
 
 .footer-container{
